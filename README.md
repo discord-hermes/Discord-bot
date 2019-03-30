@@ -1,4 +1,4 @@
 # Discord-bot
 
-#Team Member -
+# Team Member -
 COIN-KR
