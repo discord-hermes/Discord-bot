@@ -14,7 +14,7 @@ Dark
 # Homepage
 <https://teamhermes.tk>
 
-[Coin]: https://github.com/orgs/discord-hermes/people/COIN-KR
-[Jaffe]: https://github.com/orgs/discord-hermes/people/gojuwon1031
-[Hayanggames]: https://github.com/orgs/discord-hermes/people/hayanggames
-[Dark]: https://github.com/orgs/discord-hermes/people/EntryDark
+[Coin]: https://avatars1.githubusercontent.com/u/47521176
+[Jaffe]: https://avatars3.githubusercontent.com/u/49097133
+[Hayanggames]: https://avatars2.githubusercontent.com/u/45326612
+[Dark]: https://avatars3.githubusercontent.com/u/27040628
