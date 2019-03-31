@@ -2,14 +2,9 @@
   Team Hermes가 만든 Discord 봇입니다!
   
 # Team Members
-![Coin][Coin]  
-Coin  
-![Jaffe][Jaffe]  
-Jaffe  
-![Hayanggames][Hayanggames]  
-Hayanggames  
-![Dark][Dark]  
-Dark  
+| ![Coin][Coin] | ![Jaffe][Jaffe] | ![Hayanggames][Hayanggames] | ![Dark][Dark] |
+| :-----------: | :-------------: | :-------------------------: | :-----------: |
+| Coin          | Jaffe           | Hayanggames                 | Dark          |
 
 # Homepage
 <https://teamhermes.tk>
