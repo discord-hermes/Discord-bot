@@ -5,8 +5,8 @@
 ![Coin][Coin]  
 Coin  
 ![Jaffe][Jaffe]  
-Jaffe 
-![Hayanggames][Hayanggames]   
+Jaffe  
+![Hayanggames][Hayanggames]  
 Hayanggames  
 ![Dark][Dark]  
 Dark  
