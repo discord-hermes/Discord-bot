@@ -1,5 +1,5 @@
-# Discord-bot
-  Team Hermes가 만든 Discord 봇입니다!
+# Mercury Bot
+  Team Hermes가 만든 첫번째 행성봇입니다.
   
 # Team Members
 | ![Coin][Coin-img] | ![Jaffe][Jaffe-img] | ![Hayanggames][Hayanggames-img] | ![Dark][Dark-img] |
