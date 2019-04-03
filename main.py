@@ -28,7 +28,7 @@ async def on_message(message):
         await app.send_message(message.channel, "MercuryBot Server Version :\nv0.1\n\nMercury Bot은 Team Hermes(팀 헤르메스)가 개발한\ndiscord.py 봇입니다.")
 
     elif message.content == "!며칠":
-    now = datetime.datetime.now()
-    await app.send_message(message.channel, random.choice(["귀찮아", "저리가", "str(now.day)+"일임."]))
+        now = datetime.datetime.now()
+        await app.send_message(message.channel, random.choice(["귀찮아", "저리가", str(now.day)+"일임."]))
 
 app.run(token)
