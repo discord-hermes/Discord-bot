@@ -24,7 +24,7 @@ async def on_message(message):
     if message.content == "!도움":
         await app.send_message(message.channel, "!도움\n어찌구\n저찌구\n쏼라\n쏼라")
     
-    if message.content == "!정보":
+    elif message.content == "!정보":
         await app.send_message(message.channel, "MercuryBot Server Version :\nv0.1\n\nMercury Bot은 Team Hermes(팀 헤르메스)가 개발한\ndiscord.py 봇입니다.")
 
     elif message.content == "!며칠":
