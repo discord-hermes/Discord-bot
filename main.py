@@ -29,10 +29,6 @@ async def on_message(message):
 
     elif message.content == "!며칠":
         now = datetime.datetime.now()
-<<<<<<< HEAD
-        await app.send_message(message.channel, random.choice(["귀찮아", "저리가", str(now.day)+"일임."]))
-=======
-        await app.send_message(message.channel, random.choice(["귀찮아", "저리가", "str(now.day)+"일임."]))
->>>>>>> 8bbf5e8a624554275be4af8ec78b1df58f84cd21
+        await app.send_message(message.channel, str(now.day)+"일임."]))
 
 app.run(token)
