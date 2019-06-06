@@ -1,5 +1,5 @@
 # Mercury Bot
-  Team Hermes가 만든 첫번째 행성봇입니다.
+  Team Hermes가 만든 첫 번째 행성봇입니다.
   
 # Team Members
 | ![Coin][Coin-img] | ![Jaffe][Jaffe-img] | ![Hayanggames][Hayanggames-img] | ![Dark][Dark-img] |
